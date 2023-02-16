@@ -21,5 +21,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=GoushinsooM&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoushinsooM)](https://github.com/GoushinsooM)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoushinsooM&theme=highcontrast&title_color=f00&icon_color=f00)](https://github.com/GoushinsooM)
 
